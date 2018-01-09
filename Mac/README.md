@@ -1,3 +1,17 @@
-# Mac Refresh Script
+# Mac Scripts
 
-This was created for my job at a helpdesk. We needed a script to delete the loaner account and files on a loaner mac book and then re-create the account with specified settings. 
+Most of these scripts where crated for my job at a help desk. 
+
+
+
+#### Mac Refresh Script
+
+This script erases a loaner account and files on the computer and re-creates a loaner account.
+
+------
+
+
+
+#### Mac Image 
+
+This script is used to "image" mac computers, since apple retired our old method. This just runs mutiple commands to Set Hostname, Bind to domain, mount drives and install files, ext..
